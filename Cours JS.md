@@ -627,13 +627,13 @@ Votre application doit permettre à l'utilisateur de :
 
 ### Barème d'Évaluation
 
-- Structure HTML correcte : 10%
-- Manipulation efficace du DOM : 20%
-- Gestion appropriée des événements : 20%
-- Modification du style en fonction de l'état de la tâche : 10%
-- Code bien structuré en fonctions : 20%
-- Gestion des erreurs pour les entrées utilisateur : 10%
-- Utilisation du `localStorage` pour la persistance des données : 10%
+- Structure HTML correcte : 2pts
+- Manipulation efficace du DOM : 6pts
+- Gestion appropriée des événements : 6pts
+- Modification du style en fonction de l'état de la tâche : 3pts
+- Code bien structuré en fonctions : 2pt
+- Gestion des erreurs pour les entrées utilisateur : 2pt
+- Utilisation du `localStorage` pour la persistance des données : 1pt
 
 ### Ressources Utiles
 
